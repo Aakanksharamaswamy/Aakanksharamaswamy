@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aakanksharamaswamy
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Projects in Machine Learning and Deep Learning
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on Projects in html, css, js, front end.
 - 📫 How to reach me aakankshaningannagari@gmail.com
 
 <!---
